@@ -1,0 +1,18 @@
+{
+    "green_api_instance": "your_instance_id",
+    "green_api_token": "your_api_token",
+    "whatsapp_group_ids": [
+        "your_whatsapp_group_id"
+    ],
+    "whatsapp_error_number": "your_error_number",
+    "region": "*",
+    "debug": false,
+    "alerts_url": "https://www.oref.org.il/WarningMessages/alert/alerts.json",
+    "lamas_github_url": "https://raw.githubusercontent.com/UdiMizrachi/RedAlerts-WA/master/lamas.json",
+    "log_alerts_to_file": true,
+    "log_file_path": "/path/to/log/file",
+    "log_retention_days": 4,
+    "log_cleanup_time": "03:00",
+    "monitor_interval": 1,
+    "debug_alerts_path": "path/to/alerts.json"
+}
